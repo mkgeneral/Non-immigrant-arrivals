@@ -49,11 +49,11 @@ Once initial data in transformed into data model described in the sections below
 - **visa_type** - specific visa types and supporting sections of law
 - **dates** - date definitions
 
-![Image](star_schema.jpg)
+![Image](star_schema.JPG)
 
 ### *Data Dictionary*
 
-![Image](data_dict.jpg)
+![Image](data_dict.JPG)
 
 ## ETL Process
 
